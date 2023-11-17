@@ -73,7 +73,7 @@ Data sourced from Airbnb listings in NYC, stored in a CSV file, includes propert
 | room_type           | A type of residence                                    |
 | price               | Price per night in US dollars                         |
 | minimum_nights      | Minimum number of nights for which one must rent a residence |
-| last_review         | Latest review for a residence                           |
+| number_of_reviews   | Total review for a residence                           |
 | reviews_per_month   | Average number of customer reviews per month           |
 | availability_365    | Number of days a property is available in a year        |
 
